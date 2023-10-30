@@ -3,7 +3,7 @@
 # asdf-kubecm [![Build](https://github.com/samhvw8/asdf-kubecm/actions/workflows/build.yml/badge.svg)](https://github.com/samhvw8/asdf-kubecm/actions/workflows/build.yml) [![Lint](https://github.com/samhvw8/asdf-kubecm/actions/workflows/lint.yml/badge.svg)](https://github.com/samhvw8/asdf-kubecm/actions/workflows/lint.yml)
 
 
-[kubecm](https://kubecm.cloud/en-us/README) plugin for the [asdf version manager](https://asdf-vm.com).
+[kubecm](https://kubecm.cloud/) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
